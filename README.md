@@ -1,9 +1,9 @@
 ### Hello/Olá 👋
 
-**RodrigoAlban/RodrigoAlban**   His/Him; Ele/Dele.
+**RodrigoAlban/RodrigoAlban**   He/Him; Ele/Dele.
 
 (EN)
-I'm a Computer Science studant in **UTFPR** campus **Medianeira** (Brazil).
+I'm a Computer Science student at the **UTFPR** campus **Medianeira** (Brazil).
 
 I'm interested in learning about **C and C++** programming languages.
 
