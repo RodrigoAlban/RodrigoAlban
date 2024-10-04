@@ -1,16 +1,11 @@
-### Hello/Olá 👋
+<h1>Hello 👋, I'm Rodrigo Alban</h1>
 
-**RodrigoAlban/RodrigoAlban**   He/Him; Ele/Dele.
+<p><strong>RodrigoAlban/RodrigoAlban</strong> - He/Him</p>
 
-(EN)
-I'm a Computer Science student at the **UTFPR** campus **Medianeira** (Brazil).
+<p>I'm currently pursuing a degree in <strong>Computer Science</strong> at the <strong>Federal University of Technology – Paraná (UTFPR)</strong>, Medianeira campus, in Brazil.</p>
 
-I'm interested in learning about **C and C++** programming languages.
+<p>I'm passionate about expanding my knowledge in the <strong>C</strong> and <strong>C#</strong> programming languages, and I’m eager to explore new flavors of Linux distros, technologies, and challenges in the world of software development.</p>
 
+<p>Feel free to connect with me, here or on my socials!</p>
 
-
-(PT-BR)
-Sou um estudante de Ciência da Computação na **UTFPR** campus **Medianeira** (Brasil).
-
-Tenho interesse em aprender sobre a linguagem **C e C++**.
-
+<p>Check out my projects below, I would love to discuss them!</p>
