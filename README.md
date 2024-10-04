@@ -1,6 +1,6 @@
 <h1>Hello 👋, I'm Rodrigo Alban</h1>
 
-<p><strong>RodrigoAlban/RodrigoAlban</strong> - He/Him</p>
+<p>He/Him</p>
 
 <p>I'm currently pursuing a degree in <strong>Computer Science</strong> at the <strong>Federal University of Technology – Paraná (UTFPR)</strong>, Medianeira campus, in Brazil.</p>
 
