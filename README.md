@@ -2,6 +2,8 @@
 
 **Computer Science** student at **UTFPR** (Federal University of Technology – Paraná), Brazil 🇧🇷
 
+![SQL](https://img.icons8.com/?size=30&id=J6KcaRLsTgpZ&format=png&color=000000) ![C](https://img.icons8.com/?size=30&id=40670&format=png&color=000000) ![Python](https://img.icons8.com/?size=30&id=13441&format=png&color=000000) ![Rust](https://img.icons8.com/?size=30&id=t7vIvDXazOGO&format=png&color=000000) ![Linux](https://img.icons8.com/?size=30&id=fG5Tnj4ARIoI&format=png&color=000000)
+
 💻 Passionate about low-level programming and systems:  
 → Mastering **C** & **Rust**  
 → Tinkering with **Linux** ecosystems & **Hyprland** Window Manager  
