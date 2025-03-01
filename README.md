@@ -1,9 +1,16 @@
-<h1>Hello 👋, I'm Rodrigo Alban</h1>
+# Hello 👋, I'm Rodrigo Alban
 
-<p>I'm currently pursuing a degree in <strong>Computer Science</strong> at the <strong>Federal University of Technology – Paraná (UTFPR)</strong>, Medianeira campus, in Brazil.</p>
+**Computer Science** student at **UTFPR** (Federal University of Technology – Paraná), Brazil 🇧🇷
 
-<p>I'm passionate about expanding my knowledge in low-level programming languages like <strong>C</strong> and <strong>Rust</strong>, and I’m eager to explore new flavors of <strong>Linux</strong> distros, cool packages, and cutting-edge Window Managers like <strong>Hyprland</strong>.</p>
+💻 Passionate about low-level programming and systems:  
+→ Mastering **C** & **Rust**  
+→ Tinkering with **Linux** ecosystems & **Hyprland** Window Manager  
+→ Currently exploring **Python** & **Automation** libraries
 
-<p>Feel free to connect with me, here or on my socials!</p>
+🌱 Always experimenting with new tools and **open-source** packages  
 
-<p>Check out my projects below, I would love to discuss them!</p>
+📫 Let's connect! [![BlueSky](https://img.icons8.com/?size=15&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/rodrigoalban.bsky.social)
+[![Linkedin](https://img.icons8.com/?size=15&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/rodrigo-alban-54910120a/)
+
+
+📌 Check out my projects below – I'd love to hear your thoughts!
