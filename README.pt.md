@@ -2,6 +2,9 @@
 
 Aluno de **Ciência da Computação** na **UTFPR** (Universidade Tecnológica Federal do Paraná), Brasil 🇧🇷
 
+### README in other languages:
+- [English](README.md)
+
 ![SQL](https://img.icons8.com/?size=32&id=J6KcaRLsTgpZ&format=png&color=000000) ![C](https://img.icons8.com/?size=32&id=40670&format=png&color=000000) ![Python](https://img.icons8.com/?size=32&id=13441&format=png&color=000000) ![Rust](https://img.icons8.com/?size=32&id=t7vIvDXazOGO&format=png&color=000000) ![Linux](https://img.icons8.com/?size=32&id=fG5Tnj4ARIoI&format=png&color=000000)
 
 💻 Apaixonado por programação de baixo nível e sistemas:
