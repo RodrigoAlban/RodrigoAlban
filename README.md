@@ -15,7 +15,7 @@
 🌱 Always experimenting with new tools and **open-source** packages  
 
 📫 Let's connect!   
-[![Linkedin](https://img.icons8.com/?size=24&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/rodrigo-alban-54910120a/) [![BlueSky](https://img.icons8.com/?size=24&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/rodrigoalban.bsky.social)
+[![Linkedin](https://img.icons8.com/?size=24&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/rodrigo-alban-54910120a/) [![BlueSky](https://img.icons8.com/?size=24&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/rodrigoalban.github.io)
 
 
 📌 Check out my projects below – I'd love to hear your thoughts!
