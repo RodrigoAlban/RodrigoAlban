@@ -7,7 +7,7 @@ Aluno de **Ciência da Computação** na **UTFPR** (Universidade Tecnológica Fe
 
 ![SQL](https://img.icons8.com/?size=32&id=J6KcaRLsTgpZ&format=png&color=000000) ![C](https://img.icons8.com/?size=32&id=40670&format=png&color=000000) ![Python](https://img.icons8.com/?size=32&id=13441&format=png&color=000000) ![Rust](https://img.icons8.com/?size=32&id=t7vIvDXazOGO&format=png&color=000000) ![Linux](https://img.icons8.com/?size=32&id=fG5Tnj4ARIoI&format=png&color=000000)
 
-💻 Apaixonado por programação de baixo nível e sistemas:
+💻 Sou apaixonado por programação de baixo nível e sistemas integrados:
 
 → Masterizando **C** & **Rust**  
 → Experimentando ecossistemas **Linux** & o gerenciador de janelas **Hyprland**  
@@ -17,5 +17,7 @@ Aluno de **Ciência da Computação** na **UTFPR** (Universidade Tecnológica Fe
 
 📫 Vamos nos conectar!  
 [![Linkedin](https://img.icons8.com/?size=24&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/rodrigo-alban-54910120a/) [![BlueSky](https://img.icons8.com/?size=24&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/rodrigoalban.bsky.social)
+
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoAlban&show_icons=true&theme=tokyonight)
 
 📌 Dá uma olhada nos meus projetos abaixo – Eu vou amar saber a sua opinião!
