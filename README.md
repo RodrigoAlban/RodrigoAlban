@@ -19,3 +19,5 @@
 
 
 📌 Check out my projects below – I'd love to hear your thoughts!
+
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoAlban&show_icons=true&theme=tokyonight)
