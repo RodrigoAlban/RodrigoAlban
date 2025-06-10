@@ -18,6 +18,6 @@ Aluno de **Ciência da Computação** na **UTFPR** (Universidade Tecnológica Fe
 📫 Vamos nos conectar!  
 [![Linkedin](https://img.icons8.com/?size=24&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/rodrigo-alban-54910120a/) [![BlueSky](https://img.icons8.com/?size=24&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/rodrigoalban.bsky.social)
 
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoAlban&show_icons=true&theme=tokyonight)
-
 📌 Dá uma olhada nos meus projetos abaixo – Eu vou amar saber a sua opinião!
+
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoAlban&show_icons=true&theme=tokyonight)
