@@ -2,7 +2,7 @@
 
 **Computer Science** student at **UTFPR** (Federal University of Technology – Paraná), Brazil 🇧🇷
 
-**Intern** @ **Frimesa** 
+**Developer** @ **Frimesa** 
 
 ### README em português:
 - [Português](README.pt.md)
