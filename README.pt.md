@@ -2,6 +2,8 @@
 
 Aluno de **Ciência da Computação** na **UTFPR** (Universidade Tecnológica Federal do Paraná), Brasil 🇧🇷
 
+Também sou Desenvolvedor na Frimesa 🐷
+
 ### README in other languages:
 - [English](README.md)
 
