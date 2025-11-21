@@ -2,10 +2,9 @@
 <br>
 <p align="center">
 Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer Science student. <br> <br>
-✦ Turning coffee into code and manual tasks into shell scripts ✦ <br> <br>
-⌨️Currently studying at <a href="https://www.utfpr.edu.br" target="_blank">UTFPR</a> & working @ <a href="https://www.frimesa.com.br/en/sobre">Frimesa</a> ⌨️
+☕ Turning coffee into code and boring tasks into cool shell scripts 💾 <br> <br>
+⌨️ Currently studying at <a href="https://www.utfpr.edu.br" target="_blank">UTFPR</a> & working at <a href="https://www.frimesa.com.br/en/sobre">Frimesa</a> ⌨️
 </p>
-<h1> </h1>
 <br>
 
 <div float="left" align="center">
@@ -22,7 +21,7 @@ Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer S
 
 
   <p align="center">
-  ▮ I code in lots of different domains, from low-level systems to web automation. If I find it interesting, I'll do it. ▮
+  ▮ I code in lots of different domains, from low-level systems to web automation. If I find it interesting, I'll do it ▮
   </p>
         <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
 
