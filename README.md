@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://www.linkedin.com/in/rodrigo-alban-54910120a/" target="_blank">Rodrigo's</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
+<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://www.linkedin.com/in/rodrigo-alban" target="_blank">Rodrigo's</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
 Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer Science student. <br> <br>
