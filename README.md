@@ -33,7 +33,7 @@ Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer S
   </p>
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/rodrigo-alban-54910120a/" target="_blank"><img src="https://img.icons8.com/?size=32&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/rodrigo-alban" target="_blank"><img src="https://img.icons8.com/?size=32&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/></a>
     &nbsp; &nbsp;
     <a href="https://bsky.app/profile/rodrigoalban.github.io" target="_blank"><img src="https://img.icons8.com/?size=32&id=3ovMFy5JDSWq&format=png&color=000000" alt="BlueSky"/></a>
   </p>
