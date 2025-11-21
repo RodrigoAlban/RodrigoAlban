@@ -13,7 +13,7 @@ Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer S
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C ■ SQL ■ Python ■ Linux ■ Systems Programming ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C ■ PL/SQL ■ Python ■ Linux ■ Systems Programming ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
@@ -41,5 +41,5 @@ Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer S
   <br>
 
   <p align="center">
-    🌱 Individual code for collective progress 🌱
+    🌱 𝙸𝚗𝚍𝚒𝚟𝚒𝚍𝚞𝚊𝚕 𝚌𝚘𝚍𝚎 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 🌱
   </p>
