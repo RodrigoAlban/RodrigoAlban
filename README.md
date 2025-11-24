@@ -21,7 +21,7 @@ Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer S
   <p align="center">
   ▮ I code in lots of different domains, from low-level systems to web automation. If I find it interesting, I'll do it ▮
   </p>
-        <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlnbHNzeDJtMTlqZzdibG1iMTI2Y3o1MzN5cHByemRldmVwNWV2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hogEpz2scfOJbb9xYC/giphy.gif" width="15%">
 
   <br>
   
