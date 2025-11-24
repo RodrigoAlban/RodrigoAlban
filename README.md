@@ -2,13 +2,11 @@
 <br>
 <p align="center">
 Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer Science student. <br> <br>
-☕ Turning coffee into code and boring tasks into cool shell scripts 💾 <br> <br>
 ⌨️ Currently studying at <a href="https://www.utfpr.edu.br" target="_blank">UTFPR</a> & working at <a href="https://www.frimesa.com.br/en/sobre">Frimesa</a> ⌨️
 </p>
-<br>
 
 <div float="left" align="center">
-    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+    <img src="https://tenor.com/view/mafuyu-asahina-project-sekai-pjsk-proseka-puroseka-gif-13456226429923841639.gif" width="40%"/>
   <div>
      <kbd>
        <br>
