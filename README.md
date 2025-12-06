@@ -10,7 +10,7 @@ Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer S
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C ■ PL/SQL ■ Python ■ Linux ■ Systems Programming ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp; &nbsp; ■ C ■ PL/SQL ■ Python ■ Linux ■ Systems Programming ■  &nbsp; &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
@@ -19,7 +19,7 @@ Hey there! I'm <strong>Rodrigo Arnold Alban</strong>, a developer and Computer S
 
 
   <p align="center">
-  ▮ I code in lots of different domains, from low-level systems to web automation. If I find it interesting, I'll do it ▮
+  ▮ My interests span the entire technical spectrum, from data structures to scripting web workflows. If an idea is compelling enough, I'm all in.▮
   </p>
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlnbHNzeDJtMTlqZzdibG1iMTI2Y3o1MzN5cHByemRldmVwNWV2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hogEpz2scfOJbb9xYC/giphy.gif" width="15%">
 
